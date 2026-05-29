@@ -1,0 +1,7 @@
+﻿# pip freeze > requirements.txt  # 生成依赖后替换此文件
+# 以下是示例依赖
+
+openai>=1.0.0
+python-dotenv>=1.0.0
+typer>=0.9.0
+rich>=13.0.0
