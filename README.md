@@ -1,7 +1,7 @@
 ﻿# AI Learning Repository
 
 > 🚀 从零到一的 AI 应用 & 物理 AI 学习实践仓库
-> 作者：彭信力 | 转型之路 · 作品集 · 成长记录
+> 作者：dhuahd | 转型之路 · 作品集 · 成长记录
 
 ---
 
@@ -65,4 +65,4 @@
 
 ## 📄 License
 
-MIT © 彭信力
+dhuahd
